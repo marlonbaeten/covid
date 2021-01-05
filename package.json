@@ -10,7 +10,7 @@
   "dependencies": {
     "@overnightjs/core": "^1.6.15",
     "@overnightjs/logger": "^1.1.10",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "bootstrap": "^4.4.1",
     "express": "^4.17.1",
     "lodash": "^4.17.19",
